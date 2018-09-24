@@ -1,0 +1,17 @@
+.contenedor {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+p {
+	font-family: serif;
+	color: #fff;
+}
+
+#p {
+	padding-top: 70px;
+	font-size: 70px;
+	font-style: italic;
+}
